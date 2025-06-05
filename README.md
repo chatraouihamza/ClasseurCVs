@@ -2,7 +2,7 @@
 
 Voici un **README complet** sous forme **d’un seul bloc de code** intégrant toutes les sections : installation, structure, Docker, Kubernetes, technologies, etc.
 
-```markdown
+
 # 📄 Classeur Intelligent de CVs
 
 Cette application web permet aux recruteurs d’analyser et de classer des CVs par rapport à une **description de poste**. Elle utilise un **modèle de langage (LLM)** pour extraire la pertinence de chaque profil. Développée avec **Python**, **Chainlit** pour l’interface, et déployable avec **Docker** ou **Kubernetes (`kind`)**.
