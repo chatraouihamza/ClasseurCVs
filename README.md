@@ -1,6 +1,3 @@
-# ClasseurCVs
-
-Voici un **README complet** sous forme **d’un seul bloc de code** intégrant toutes les sections : installation, structure, Docker, Kubernetes, technologies, etc.
 
 
 # 📄 Classeur Intelligent de CVs
